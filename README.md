@@ -3,24 +3,11 @@
 <!--
 **BreffJaun/BreffJaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Jeff Braun</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">I am a budding full-stack developer from Germany</h3>
 
----------------------------------
-<h1 align="center">Ahmet YANIK</h1>
-
-<h3 align="center">A passionate JavaScript and Full-Stack developer from Germany</h3>
-
-- 📫 How to reach me: **ahmetyanikdev@gmail.com**
+- 📫 How to reach me: **braun_jeff@web.de**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
