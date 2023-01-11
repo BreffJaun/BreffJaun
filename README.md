@@ -50,11 +50,11 @@
   </a>
   
   <a href="https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github" target="_blank"> 
-    <img src="https://image.pngaaa.com/921/94921-middle.png" alt="github" width="40" height="40" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" /> 
   </a> 
   
   <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://spng.pngfind.com/pngs/s/430-4309256_built-on-opensource-three-js-logo-png-transparent.png" alt="express" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a>
   
   <a href="https://www.mongodb.com/" target="_blank"> 
