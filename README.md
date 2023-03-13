@@ -1,6 +1,6 @@
 <h1 align="center">Jeff Braun</h1>
 
-<h3 align="center">I am a budding full-stack developer from Germany</h3>
+<h3 align="center">I am a full-stack developer from Germany</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=breffjaun alt=rahuldkjain/> </p>
 
@@ -99,4 +99,4 @@
 
 [Jeff Braun](https://github.com/breffjaun)
 
-Last Edited on: 18.02.2023
+Last Edited on: 13.03.2023
