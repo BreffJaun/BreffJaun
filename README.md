@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a full-stack developer from Germany</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=breffjaun alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=breffjaun alt=breffjaun/> </p>
 
 - 📫 How to reach me: **braun_jeff@web.de**
 
