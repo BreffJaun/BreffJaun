@@ -100,11 +100,3 @@
 [Jeff Braun](https://github.com/breffjaun)
 
 Last Edited on: 13.03.2023
-
-```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
