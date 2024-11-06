@@ -67,71 +67,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breffjaun&theme=react&layout=compact" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-
-  <div class="badgr-badge" style="width: 200px; flex-grow: 0; flex-shrink: 0; text-align: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; border: 1px solid #ffffff; background-color: #161b24; padding: 10px; border-radius: 5px;">
-    <a href="https://api.eu.badgr.io/public/assertions/PG7CLUDTSaeIILOvi_dEIA?identity__email=braun_jeff%40web.de">
-      <img width="120px" height="120px" src="./assets/fullstack_developer.png" alt="Fullstack Developer Badge">
-    </a>
-    <p class="badgr-badge-name" style="font-size: 16px; font-weight: 600; color: #05012c;">Fullstack Developer</p>
-    <p class="badgr-badge-date" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded:</strong> Feb 17, 2023</p>
-    <p class="badgr-badge-recipient" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded To:</strong> Jeff Braun</p>
-  </div>
-
-  <div class="badgr-badge" style="width: 200px; flex-grow: 0; flex-shrink: 0; text-align: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; border: 1px solid #ffffff; background-color: #161b24; padding: 10px; border-radius: 5px;">
-    <a href="https://api.badgr.io/public/assertions/KXD7ng5RSYSufz8nu_hAGQ?identity__email=braun_jeff%40web.de">
-      <img width="120px" height="120px" src="./assets/javascript_developer.png" alt="JavaScript Developer Badge">
-    </a>
-    <p class="badgr-badge-name" style="font-size: 16px; font-weight: 600; color: #05012c;">JavaScript Developer</p>
-    <p class="badgr-badge-date" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded:</strong> Oct 14, 2022</p>
-    <p class="badgr-badge-recipient" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded To:</strong> Jeff Braun</p>
-  </div>
-
-  <div class="badgr-badge" style="width: 200px; flex-grow: 0; flex-shrink: 0; text-align: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; border: 1px solid #ffffff; background-color: #161b24; padding: 10px; border-radius: 5px;">
-    <a href="https://api.eu.badgr.io/public/assertions/ed6n6xw5QQerO2NTGKW_Zw?identity__email=braun_jeff%40web.de">
-      <img width="120px" height="120px" src="./assets/user-interface_developer.png" alt="User Interface Developer Badge">
-    </a>
-    <p class="badgr-badge-name" style="font-size: 16px; font-weight: 600; color: #05012c;">User Interface Developer</p>
-    <p class="badgr-badge-date" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded:</strong> Oct 14, 2022</p>
-    <p class="badgr-badge-recipient" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded To:</strong> Jeff Braun</p>
-  </div>
-
-  <!-- Weitere Badges in ähnlichem Format -->
-  <div class="badgr-badge" style="width: 200px; flex-grow: 0; flex-shrink: 0; text-align: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; border: 1px solid #ffffff; background-color: #161b24; padding: 10px; border-radius: 5px;">
-    <a href="https://api.eu.badgr.io/public/assertions/dNSyW9EmQKOq-4qXdotkyQ?identity__email=braun_jeff%40web.de">
-      <img width="120px" height="120px" src="./assets/react_developer.png" alt="React Developer Badge">
-    </a>
-    <p class="badgr-badge-name" style="font-size: 16px; font-weight: 600; color: #05012c;">React Developer</p>
-    <p class="badgr-badge-date" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded:</strong> Nov 22, 2022</p>
-    <p class="badgr-badge-recipient" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded To:</strong> Jeff Braun</p>
-  </div>
-
-  <div class="badgr-badge" style="width: 200px; flex-grow: 0; flex-shrink: 0; text-align: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; border: 1px solid #ffffff; background-color: #161b24; padding: 10px; border-radius: 5px;">
-    <a href="https://api.eu.badgr.io/public/assertions/hLmSmY6tSci8HnYvY2I0kg?identity__email=braun_jeff%40web.de">
-      <img width="120px" height="120px" src="./assets/tutor.png" alt="Tutor Badge">
-    </a>
-    <p class="badgr-badge-name" style="font-size: 16px; font-weight: 600; color: #05012c;">Tutor</p>
-    <p class="badgr-badge-date" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded:</strong> Oct 14, 2022</p>
-    <p class="badgr-badge-recipient" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded To:</strong> Jeff Braun</p>
-  </div>
-
-  <div class="badgr-badge" style="width: 200px; flex-grow: 0; flex-shrink: 0; text-align: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; border: 1px solid #ffffff; background-color: #161b24; padding: 10px; border-radius: 5px;">
-    <a href="https://api.eu.badgr.io/public/assertions/7eEsjh6NSZSNIOq3IVDhYA?identity__email=braun_jeff%40web.de">
-      <img width="120px" height="120px" src="./assets/class_representative.png" alt="Class Representative Badge">
-    </a>
-    <p class="badgr-badge-name" style="font-size: 16px; font-weight: 600; color: #05012c;">Class Representative</p>
-    <p class="badgr-badge-date" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded:</strong> Oct 14, 2022</p>
-    <p class="badgr-badge-recipient" style="font-size: 12px; color: #555555;"><strong style="color: #000;">Awarded To:</strong> Jeff Braun</p>
-  </div>
- 
-</div>
-
-
-     
-
-</div>
-
-<!-- <table align="center" style="flexbox">
+<table align="center" style="flexbox">
   <tr>
     <td>
       <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
@@ -196,7 +132,7 @@
       </div> 
     </td>
   </tr>
-</table> -->
+</table>
 
 
 
