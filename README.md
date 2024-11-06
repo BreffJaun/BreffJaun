@@ -67,7 +67,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breffjaun&theme=react&layout=compact" />
 </p>
 
-<table align="center" style="flexbox">
+
+<table align="center" style="flexbox table-layout: fixed; width: 100%;">
   <tr>
     <td>
       <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
