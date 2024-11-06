@@ -68,7 +68,7 @@
 </p>
 
 
-<table align="center" style="table-layout: fixed; width: 100%;">
+<table align="center" style="flexbox">
   <tr>
     <td>
       <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
