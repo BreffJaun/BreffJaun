@@ -67,7 +67,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breffjaun&theme=react&layout=compact" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
   <div class="badgr-badge" style="width: 200px; flex-grow: 0; flex-shrink: 0; text-align: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; border: 1px solid #ffffff; background-color: #161b24; padding: 10px; border-radius: 5px;">
     <a href="https://api.eu.badgr.io/public/assertions/PG7CLUDTSaeIILOvi_dEIA?identity__email=braun_jeff%40web.de">
