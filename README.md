@@ -1,31 +1,46 @@
-<!-- Hero Banner -->
+
 <div style="background-color:#222529; padding:0; border-radius:12px; overflow:hidden; max-width:100%; margin:auto;">
   <img src="./assets/breffJaunNewFeedImage.png" alt="breff jaun banner" style="width:100%; display:block;" />
 </div>
 
 <br>
 
-<!-- Main Info -->
+
 <div align="center" style="background-color:#222529; padding:20px; border-radius:12px;">
   <h1 style="color:#20c997">🌑 Jeff Braun</h1>
   <h3 style="color:#ffffff">Fullstack & iOS Developer 🚀</h3>
 
-  <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-    <a href="https://www.linkedin.com/in/jeff-braun-0959091a4/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.xing.com/profile/Jeff_Braun2/cv">
-      <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white" alt="Xing"/>
-    </a>
-    <a href="mailto:breffjaun@mail.de">
-      <img src="https://img.shields.io/badge/Email-25D366?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </div>
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:center;">
+
+  <!-- Website -->
+  <a href="https://breffjaun.com/" style="display:inline-flex; align-items:center; gap:5px; text-decoration:none; height:28px; line-height:28px; background-color:#20c997; color:white; padding:0 10px; border-radius:5px; font-weight:bold; font-size:13px;">
+    <img src="./assets/breffjaun_anthrazit-white.svg" alt="Website Icon" height="20" style="display:inline;"/>
+    Website
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jeff-braun-0959091a4/" style="display:inline-flex; border-radius:5px; overflow:hidden;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Xing -->
+  <a href="https://www.xing.com/profile/Jeff_Braun2/cv" style="display:inline-flex; border-radius:5px; overflow:hidden;">
+    <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white" alt="Xing"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:breffjaun@mail.de" style="display:inline-flex; border-radius:5px; overflow:hidden;">
+    <img src="https://img.shields.io/badge/Email-25D366?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+
 </div>
 
 <br>
 
-<!-- About Me -->
+
 <div style="background-color:#222529; padding:20px; border-radius:12px;">
   <h2 align="center" style="color:#20c997">👨‍💻 About Me</h2>
   I’m Jeff, a passionate developer from Germany with a strong focus on  
@@ -40,9 +55,9 @@
 
 <br>
 
-<!-- My Journey -->
+
 <div style="background-color:#222529; padding:20px; border-radius:12px;">
-  <h2 style="color:#20c997; text-align:center;">📈 My Journey</h2>
+  <h2 style="color:#20c997;" align="center">📈 My Journey</h2>
   <ul>
     <li>💻 Started as <b>Fullstack Developer</b> (React, Node.js, MongoDB)</li>
     <li>📱 Building <b>iOS apps with Swift & SwiftUI</b></li>
@@ -53,12 +68,12 @@
 
 <br>
 
-<!-- Tech Stack -->
-<div style="background-color:#222529; padding:20px; border-radius:12px;">
-  <h2 style="color:#20c997; text-align:center;">🛠️ Tech Stack</h2>
 
-  <!-- Web Development -->
-  <h3 style="color:#ffffff; text-align:center;">🌐 Web Development</h3>
+<div style="background-color:#222529; padding:20px; border-radius:12px;">
+  <h2 style="color:#20c997;" align="center">🛠️ Tech Stack</h2>
+
+
+  <h3 style="color:#ffffff;" align="center">🌐 Web Development</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
@@ -69,15 +84,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
   </p>
 
-  <!-- App Development -->
-  <h3 style="color:#ffffff; text-align:center;">📱 App Development</h3>
+
+  <h3 style="color:#ffffff; " align="center">📱 App Development</h3>
   <p align="center">
     <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"/>
   </p>
 
-  <!-- UX / UI & Tools -->
-  <h3 style="color:#ffffff; text-align:center;">🎨 UX / UI & Tools</h3>
+ 
+  <h3 style="color:#ffffff;" align="center">🎨 UX / UI & Tools</h3>
   <p align="center">
     <img src="https://img.icons8.com/color/48/figma.png" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>
@@ -86,9 +101,9 @@
 
 <br>
 
-<!-- Most Used Languages -->
+
 <div style="background-color:#222529; padding:20px; border-radius:12px;">
-  <h2 style="color:#20c997; text-align:center;">📊 Most Used Languages</h2>
+  <h2 style="color:#20c997;" align="center">📊 Most Used Languages</h2>
   <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breffjaun&theme=react&layout=compact" />
   </p>
@@ -96,7 +111,7 @@
 
 <br>
 
-<!-- Certifications -->
+
 <div style="background-color:#222529; padding:20px; border-radius:12px;">
   <h2 style="color:#20c997; text-align:center;">🏆 Certifications</h2>
   <p align="center">
@@ -111,14 +126,16 @@
 
 <br>
 
-<!-- Footer Boxes -->
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-  <div style="background-color:#222529; padding:20px; border-radius:12px; flex:1; min-width:250px; text-align:center;">
-    ⚡ Inspired by my website <a href="https://breffjaun.com/" style="color:#20c997; text-decoration:none;">BreffJaun</a>
-  </div>
+<table style="width:100%; border-collapse:separate; border-spacing:10px; background-color:#1e1e1e;">
+  <tr>
+    <td style="background-color:#222529; padding:15px; text-align:center; border-radius:12px; width:50%;">
+      ⚡ Inspired by my website <a href="https://breffjaun.com/" style="color:#20c997; text-decoration:none;">BreffJaun</a>
+    </td>
+    <td style="background-color:#222529; padding:15px; text-align:center; border-radius:12px; width:50%;">
+      Last Edited on: 05.09.2025
+    </td>
+  </tr>
+</table>
 
-  <div style="background-color:#222529; padding:20px; border-radius:12px; flex:1; min-width:250px; text-align:center;">
-    Last Edited on: 05.09.2025
-  </div>
-</div>
+
 
