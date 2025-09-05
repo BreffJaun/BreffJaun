@@ -97,7 +97,7 @@
 
 
 <div style="background-color:#222529; padding:20px; border-radius:12px;">
-  <h2 style="color:#20c997; text-align:center;">🏆 Certifications</h2>
+  <h2 style="color:#20c997; text-align:center;" align="center">🏆 Certifications</h2>
   <p align="center">
     <img src="./assets/fullstack_developer.png" height="100"/>
     <img src="./assets/javascript_developer.png" height="100"/>
