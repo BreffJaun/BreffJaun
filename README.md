@@ -1,122 +1,124 @@
-<h1 align="center">Jeff Braun</h1>
-
-<h3 align="center">I am a full-stack developer from Germany</h3>
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=breffjaun alt=breffjaun/> </p>
-
-- 📫 How to reach me: **braun_jeff@web.de**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeff-braun-0959091a4/)
-[![image](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Jeff_Braun2/cv)
-  
+<!-- Hero Banner -->
+<div style="background-color:#222529; padding:0; border-radius:12px; overflow:hidden; max-width:100%; margin:auto;">
+  <img src="./assets/breffJaunNewFeedImage.png" alt="breff jaun banner" style="width:100%; display:block;" />
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<br>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<!-- Main Info -->
+<div align="center" style="background-color:#222529; padding:20px; border-radius:12px;">
+  <h1 style="color:#20c997">🌑 Jeff Braun</h1>
+  <h3 style="color:#ffffff">Fullstack & iOS Developer 🚀</h3>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+    <a href="https://www.linkedin.com/in/jeff-braun-0959091a4/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.xing.com/profile/Jeff_Braun2/cv">
+      <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white" alt="Xing"/>
+    </a>
+    <a href="mailto:breffjaun@mail.de">
+      <img src="https://img.shields.io/badge/Email-25D366?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
+</div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<br>
 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" /> 
+<!-- About Me -->
+<div style="background-color:#222529; padding:20px; border-radius:12px;">
+  <h2 align="center" style="color:#20c997">👨‍💻 About Me</h2>
+  I’m Jeff, a passionate developer from Germany with a strong focus on  
+  <b>intuitive user experiences</b>, <b>clean architecture</b>, and <b>scalable solutions</b>.  
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <ul>
+    <li>🌱 Diving deep into <b>iOS (Swift, SwiftUI, SwiftData)</b></li>
+    <li>❤️ Obsessed with creating <b>smooth, meaningful experiences</b></li>
+    <li>💡 Belief → <i>Great software is fast, accessible & uncluttered</i></li>
+  </ul>
+</div>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</p>
+<br>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breffjaun&theme=react&layout=compact" />
-</p>
+<!-- My Journey -->
+<div style="background-color:#222529; padding:20px; border-radius:12px;">
+  <h2 style="color:#20c997; text-align:center;">📈 My Journey</h2>
+  <ul>
+    <li>💻 Started as <b>Fullstack Developer</b> (React, Node.js, MongoDB)</li>
+    <li>📱 Building <b>iOS apps with Swift & SwiftUI</b></li>
+    <li>🎓 Certified Fullstack, React & JavaScript Developer (DCI)</li>
+    <li>🧑‍🏫 Worked as <b>Assistant Teacher & Tutor</b></li>
+  </ul>
+</div>
 
+<br>
 
-<table align="center" style="flexbox">
-  <tr>
-    <td>
-      <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-        <a href="https://api.eu.badgr.io/public/assertions/PG7CLUDTSaeIILOvi_dEIA?identity__email=braun_jeff%40web.de">
-          <img width="120px" height="120px" src="./assets/fullstack_developer.png">
-        </a>
-        <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Fullstack Developer</p>
-        <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong> Feb 17, 2023</p>
-        <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Jeff Braun</span></p>
-       </div>    
-    </td>
-    <td>
-      <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;     Segoe UI&quot;, Calibri, sans-serif;">
-        <a href="https://api.badgr.io/public/assertions/KXD7ng5RSYSufz8nu_hAGQ?identity__email=braun_jeff%40web.de">
-          <img width="120px" height="120px" src="./assets/javascript_developer.png">
-        </a>
-        <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">JavaScript Developer</p>
-        <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong> Oct 14, 2022</p>
-        <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Jeff Braun</span></p>
-      </div>
-    </td>
-    <td>
-      <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-        <a href="https://api.eu.badgr.io/public/assertions/ed6n6xw5QQerO2NTGKW_Zw?identity__email=braun_jeff%40web.de">
-        <img width="120px" height="120px" src="./assets/user-interface_developer.png">
-        </a>
-        <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">User Interface Developer</p>
-        <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong> Oct 14, 2022</p>
-        <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Jeff Braun</span></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-        <a href="https://api.eu.badgr.io/public/assertions/dNSyW9EmQKOq-4qXdotkyQ?identity__email=braun_jeff%40web.de">
-          <img width="120px" height="120px" src="./assets/react_developer.png">
-          </a>
-        <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">React Developer</p>
-        <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong> Nov 22, 2022</p>
-        <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Jeff Braun</span></p>
-      </div>
-    </td>
-    <td>
-      <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-        <a href="https://api.eu.badgr.io/public/assertions/hLmSmY6tSci8HnYvY2I0kg?identity__email=braun_jeff%40web.de">
-          <img width="120px" height="120px" src="./assets/tutor.png">
-        </a>
-        <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Tutor</p>
-        <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong> Oct 14, 2022</p>
-        <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Jeff Braun</span></p>
-      </div>
-    </td>
-    <td>
-      <div align="center" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-        <a href="https://api.eu.badgr.io/public/assertions/7eEsjh6NSZSNIOq3IVDhYA?identity__email=braun_jeff%40web.de">
-          <img width="120px" height="120px" src="./assets/class_representative.png">
-        </a>
-        <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Class Representative</p>
-        <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong> Oct 14, 2022</p>
-        <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Jeff Braun</span></p>
-      </div> 
-    </td>
-  </tr>
-</table>
+<!-- Tech Stack -->
+<div style="background-color:#222529; padding:20px; border-radius:12px;">
+  <h2 style="color:#20c997; text-align:center;">🛠️ Tech Stack</h2>
 
+  <!-- Web Development -->
+  <h3 style="color:#ffffff; text-align:center;">🌐 Web Development</h3>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  </p>
 
+  <!-- App Development -->
+  <h3 style="color:#ffffff; text-align:center;">📱 App Development</h3>
+  <p align="center">
+    <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"/>
+  </p>
 
+  <!-- UX / UI & Tools -->
+  <h3 style="color:#ffffff; text-align:center;">🎨 UX / UI & Tools</h3>
+  <p align="center">
+    <img src="https://img.icons8.com/color/48/figma.png" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>
+  </p>
+</div>
 
-------
+<br>
 
-[Jeff Braun](https://github.com/breffjaun)
+<!-- Most Used Languages -->
+<div style="background-color:#222529; padding:20px; border-radius:12px;">
+  <h2 style="color:#20c997; text-align:center;">📊 Most Used Languages</h2>
+  <p align="center">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breffjaun&theme=react&layout=compact" />
+  </p>
+</div>
 
-Last Edited on: 06.11.2024
+<br>
+
+<!-- Certifications -->
+<div style="background-color:#222529; padding:20px; border-radius:12px;">
+  <h2 style="color:#20c997; text-align:center;">🏆 Certifications</h2>
+  <p align="center">
+    <img src="./assets/fullstack_developer.png" height="100"/>
+    <img src="./assets/javascript_developer.png" height="100"/>
+    <img src="./assets/user-interface_developer.png" height="100"/>
+    <img src="./assets/react_developer.png" height="100"/>
+    <img src="./assets/tutor.png" height="100"/>
+    <img src="./assets/class_representative.png" height="100"/>
+  </p>
+</div>
+
+<br>
+
+<!-- Footer Boxes -->
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+  <div style="background-color:#222529; padding:20px; border-radius:12px; flex:1; min-width:250px; text-align:center;">
+    ⚡ Inspired by my website <a href="https://breffjaun.com/" style="color:#20c997; text-decoration:none;">BreffJaun</a>
+  </div>
+
+  <div style="background-color:#222529; padding:20px; border-radius:12px; flex:1; min-width:250px; text-align:center;">
+    Last Edited on: 05.09.2025
+  </div>
+</div>
+
