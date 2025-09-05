@@ -11,14 +11,10 @@
   <h3 style="color:#ffffff">Fullstack & iOS Developer 🚀</h3>
 
 <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:center;">
-
   <!-- Website -->
-  <!-- <a href="https://breffjaun.com/" style="display:inline-flex; align-items:center; gap:5px; text-decoration:none; height:28px; line-height:28px; background-color:#20c997; color:white; padding:0 10px; border-radius:5px; font-weight:bold; font-size:13px;">
-    <img src="./assets/breffjaun_anthrazit-white.svg" alt="Website Icon" height="20" style="display:inline;"/>
+  <a href="https://breffjaun.com/" style="display:inline-flex; align-items:center; gap:5px; text-decoration:none; height:28px; line-height:28px; background-color:#20c997; color:white; padding:0 10px; border-radius:5px; font-weight:bold; font-size:13px;">
     Website
-  </a> -->
-  [![Website](https://img.shields.io/badge/Website-20c997?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://breffjaun.com/)
-
+  </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jeff-braun-0959091a4/" style="display:inline-flex; border-radius:5px; overflow:hidden;">
@@ -34,8 +30,8 @@
   <a href="mailto:breffjaun@mail.de" style="display:inline-flex; border-radius:5px; overflow:hidden;">
     <img src="https://img.shields.io/badge/Email-25D366?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
 </div>
+
 
 
 </div>
