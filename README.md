@@ -52,36 +52,84 @@
 
 <br>
 
-
-<div style="background-color:#222529; padding:20px; border-radius:12px;">
+<!-- <div style="background-color:#222529; padding:20px; border-radius:12px;">
   <h2 style="color:#20c997;" align="center">🛠️ Tech Stack</h2>
-
 
   <h3 style="color:#ffffff;" align="center">🌐 Web Development</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="filter: invert(1);"/>
   </p>
 
-
-  <h3 style="color:#ffffff; " align="center">📱 App Development</h3>
+  <h3 style="color:#ffffff;" align="center">📱 App Development</h3>
   <p align="center">
     <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"/>
   </p>
 
- 
-  <h3 style="color:#ffffff;" align="center">🎨 UX / UI & Tools</h3>
+  <h3 style="color:#ffffff;" align="center">🎨 UX / UI</h3>
   <p align="center">
     <img src="https://img.icons8.com/color/48/figma.png" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>
   </p>
+
+  <h3 style="color:#ffffff;" align="center">🔧 Tools & Collaboration</h3>
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  </p>
+</div> -->
+
+<div style="background-color:#222529; padding:20px; border-radius:12px;">
+  <h2 style="color:#20c997; text-align:center;">🛠️ Tech Stack</h2>
+
+  <!-- Web Development -->
+  <h3 style="color:#ffffff; text-align:center;">🌐 Web Development</h3>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="filter: invert(1);"/>
+  </p>
+
+  <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:20px;">
+    <div style="text-align:center;">
+      <h3 style="color:#ffffff;">📱 App Development</h3>
+      <p>
+        <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"/>
+      </p>
+    </div>
+
+  <div style="text-align:center;">
+    <h3 style="color:#ffffff;">🎨 UX / UI</h3>
+    <p>
+      <img src="https://img.icons8.com/color/48/figma.png" height="40"/>
+    </p>
+  </div>
+
+  <div style="text-align:center;">
+    <h3 style="color:#ffffff;">⚙️ Tools & Collaboration</h3>
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="filter: invert(1);"/>
+    </p>
+  </div>
+  </div>
 </div>
+
+
 
 <br>
 
