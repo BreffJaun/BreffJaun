@@ -67,7 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="filter: invert(1);"/>
+  <img src="./assets/express-white.svg" height="40"/>
+
 </p>
 
 <h3 align="center" style="color:#ffffff;">📱 App Development</h3>
@@ -84,7 +85,9 @@
 <h3 align="center" style="color:#ffffff;">⚙️ Tools & Collaboration</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="filter: invert(1);"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="filter: invert(1);"/> -->
+  <img src="./assets/gh.png" height="40"/>
+
 </p>
 
 </div>
